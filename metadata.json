@@ -1,0 +1,5 @@
+{
+  "name": "ResumeRAG",
+  "description": "ResumeRAG uses Gemini to perform Retrieval-Augmented Generation on your resume, matching you with the perfect job opportunities.",
+  "requestFramePermissions": []
+}
