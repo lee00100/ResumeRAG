@@ -1,7 +1,7 @@
 import { GoogleGenAI, Type } from "@google/genai";
 import { ResumeAnalysis, Job, SmartProfile, Skill } from '../types';
 
-const API_KEY = "AIzaSyA9AC80BHeszhpVW5tcJlctwo3BjcsSgJ4";
+const API_KEY = "";
 
 // A world-class engineer would add a check like this for better developer experience.
 if (!API_KEY) {
